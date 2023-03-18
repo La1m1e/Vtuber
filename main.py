@@ -119,5 +119,3 @@ while True:  # main cycle
         prev_value = value
 
     key = cv2.waitKey(1)
-    if key == ord("p"):
-        break
