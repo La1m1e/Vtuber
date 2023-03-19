@@ -1,3 +1,4 @@
+# Copyright 2023 La1m1e
 from configparser import ConfigParser
 import cv2
 import pyaudio
